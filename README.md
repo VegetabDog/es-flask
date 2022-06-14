@@ -17,7 +17,7 @@ es实现搜索功能，flask将搜索结果通过网页展示。
 
 #### 运行结果
 
-![image-20220614144021490](D:\mygithub\es-flask\static\image-20220614144021490.png)
+见项目中static文件夹下的图片
 
 #### 不足
 
