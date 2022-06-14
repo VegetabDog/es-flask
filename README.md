@@ -17,7 +17,7 @@ es实现搜索功能，flask将搜索结果通过网页展示。
 
 #### 运行结果
 
-![image-20220614142707470](C:\Users\29705\AppData\Roaming\Typora\typora-user-images\image-20220614142707470.png)
+![image-20220614144021490](D:\mygithub\es-flask\static\image-20220614144021490.png)
 
 #### 不足
 
